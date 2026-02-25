@@ -13,3 +13,30 @@ This repository contains the implementation and experiments supporting our work 
 The project explores how machine-assisted recommendations can support ontology extension with improved efficiency and consistency.
 
 ---
+
+## ⚙️ Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/strakova/SynSemClassLREC2026.git
+cd SynSemClassLREC2026
+```
+
+2. Create a virtual environment
+
+```
+python -m venv venv
+```
+
+3. Install dependencies
+
+```
+pip install -r requirements.txt
+```
+
+The exact pinned package versions are provided in:
+
+```
+requirements_freeze.txt
+```
