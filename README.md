@@ -1,6 +1,6 @@
 # SynSemClass @ LREC 2026
 
-Code accompanying the paper accepted at **LREC 2026**:
+Code and data accompanying the paper accepted at **LREC 2026**:
 
 **Automatic Suggestions Help Extending Eventive Ontology: A Case Study on SynSemClass**
 
