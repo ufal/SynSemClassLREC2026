@@ -40,3 +40,9 @@ The exact pinned package versions are provided in:
 ```
 requirements_freeze.txt
 ```
+
+## Acknowledements
+
+Jana Straková was supported by the Johannes Amos Comenius Programme (P JAC) project No. CZ.02.01.01/00/22\_008/0004605, Natural and anthropogenic georisks, and the remaining authors by the project Uniform meaning representation (UMR), Project No LUAUS23283, also funded by the MEYS CR. The work described herein uses resources hosted by the LINDAT/CLARIAH-CZ Research Infrastructure (projects LM2018101 and LM2023062, supported by the Ministry of Education, Youth and Sports of the Czech Republic). We also acknowledge the use of the corpora created, maintained, and made available by the Czech National Corpus (project No. LM2023044 (2023–2026) funded by the Ministry of Education of the Czech Republic).
+
+We are grateful to our annotators, whose linguistic expertise and diligent efforts were invaluable in the creation of this ontology.
