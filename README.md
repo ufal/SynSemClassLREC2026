@@ -4,6 +4,18 @@ Code and data accompanying the paper accepted at **LREC 2026**:
 
 **Automatic Suggestions Help Extending Eventive Ontology: A Case Study on SynSemClass**
 
+```
+@inproceedings{strakova-etal-2026-automatic,
+title = {{Automatic Suggestions Help Extending Eventive Ontology: A Case Study on SynSemClass}},
+booktitle = "{{Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)}}",
+author = {Jana Strakov{\'{a}} and Eva Fu{\v{c}}{\'{\i}}kov{\'{a}} and Zde{\v{n}}ka Ure{\v{s}}ov{\'{a}} and Jan Haji{\v{c}}},
+year = {2026},
+publisher = {{ELRA}},
+address = {Paris, France},
+venue = {{Palau de Congressos de Palma, Spain}},
+}
+```
+
 ## Overview
 
 This repository contains the implementation and experiments supporting our work on improving and extending the **SynSemClass eventive ontology** using automatic suggestion methods.
