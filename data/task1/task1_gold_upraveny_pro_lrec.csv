@@ -1,0 +1,464 @@
+ID ramce	ID slovesa	Lemma			Finální třída	Finální koncept
+v41chlBV	v41chl	mít			vec00328
+v41chlCF	v41chl	mít			x	1.1.
+v41chlCL	v41chl	mít			x	1.1.
+v41chlCS	v41chl	mít			vec00254
+v41chlCV	v41chl	mít			x	1.1.
+v41chlDG	v41chl	mít			x	1.1.4.1.
+v41chlDQ	v41chl	mít			vec01364
+v41chlDW	v41chl	mít			vec00348
+v41chlDX	v41chl	mít			vec01955
+v41chlE	v41chl	mít			vec00742
+v41chlEI	v41chl	mít			x	1.1.3.1.3.2.2.
+v41chlEK	v41chl	mít			x	2.5.1.
+v41chlES	v41chl	mít			x	1.1.3.2.3.3
+v41chlFY	v41chl	mít			x	2.2.5.1.4.
+v41chlL	v41chl	mít			x	2.4.1.2.9.
+v41chlM	v41chl	mít			vec00531
+v41jsBC	v41js	být			x	2.2.3.
+v41jsBL	v41js	být			x	1.2.1.3.
+v41jsBM	v41js	být			x	1.2.1.3.
+v41jsBO	v41js	být			x	1.2.1.3.
+v41jsCY	v41js	být			x	1.2.1.3.
+v41bikAB	v41bik	jít			x	2.1.1.1.2.1.
+v41bikAR	v41bik	jít			vec00261
+v41bikBI	v41bik	jít			D
+v41bikBV	v41bik	jít			vec00225
+v41bikBW	v41bik	jít			vec00227
+v41bikCC	v41bik	jít			vec00080
+v41bikG	v41bik	jít			vec00227
+v41bikH	v41bik	jít			vec00090
+v41plAL	v41pl	dát			D
+v41plAM	v41pl	dát			D
+v41plAN	v41pl	dát			vec00382
+v41plBX	v41pl	dát			vec01639	2.2.5.2.1.6.
+v41plK	v41pl	dát			vec01087
+v41plL	v41pl	dát			vec01867
+v41psAG	v41ps	dávat			D
+v41psAH	v41ps	dávat			D
+v41psBD	v41ps	dávat			vec00246
+v41psD	v41ps	dávat			vec01256
+v41psM	v41ps	dávat			vec01206
+v41psO	v41ps	dávat			vec01087
+v41psX	v41ps	dávat			vec00303
+v41pmaAA	v41pma	vzít			x	2.4.4.3.
+v41pmaAV	v41pma	vzít			vec00113
+v41pmaAY	v41pma	vzít			vec00146
+v41pmaK	v41pma	vzít			vec01912
+v41pmaM	v41pma	vzít			vec01396
+v41pmaP	v41pma	vzít			vec01851
+v41pmaX	v41pma	vzít			vec00273
+v41isgT	v41isg	přijít			vec00442
+v41reAB	v41re	dělat			x	 1.1.1.
+v41reS	v41re	dělat			vec01213
+v41reX	v41re	dělat			vec01747
+v41hsAF	v41hs	brát			vec00724
+v41hsAH	v41hs	brát			vec00227
+v41hsT	v41hs	brát			vec01396
+v41hsU	v41hs	brát			x	2.4.2.2.
+v41hsW	v41hs	brát			vec00704	2.4.4.3.
+v41alcAH	v41alc	držet			vec00176
+v41alcF	v41alc	držet			x	1.1.1.1.
+v41alcM	v41alc	držet			vec00663
+v41afvX	v41afv	dostat			D
+v41juA	v41ju	bývat			x	1.2.1.3.1.
+v41juB	v41ju	bývat			x	1.1.1.
+v41juC	v41ju	bývat			x	1.1.4.3.1.
+v41juE	v41ju	bývat			x	1.1.4.2.
+v41juF	v41ju	bývat			x	1.2.1.3.
+v41juG	v41ju	bývat			vec00373
+v41juH	v41ju	bývat			vec00199
+v41juL	v41ju	bývat			x	1.2.1.3.
+v41juO	v41ju	bývat			D
+v41juP	v41ju	bývat			vec01564
+v41juQ	v41ju	bývat			vec00113
+v41juR	v41ju	bývat			x	2.1.6.1.
+v41juS	v41ju	bývat			x	1.1.4.1.1.
+v41juT	v41ju	bývat			x	1.1.4.2.
+v41juU	v41ju	bývat			D
+v41juV	v41ju	bývat			x	3
+v41juW	v41ju	bývat			x	3
+v41juX	v41ju	bývat			vec01446
+v41odzP	v41odz	vyjít			vec00530
+v41njvA	v41njv	vést			vec00031
+v41njvW	v41njv	vést			vec01572
+v41irqG	v41irq	přicházet			vec00258
+v41irqN	v41irq	přicházet			vec01292
+v41irqO	v41irq	přicházet			vec00393
+v41irqV	v41irq	přicházet			vec01193
+v41irqX	v41irq	přicházet			x	2.2.4.2.
+v41mhqH	v41mhq	udělat			x	2.1.1.1.2.3.3.
+v41fhmB	v41fhm	padnout			vec00307
+v41fhmC	v41fhm	padnout			vec01292
+v41fhmH	v41fhm	padnout			vec01679
+v41chnF	v41chn	mívat			vec00254
+v41chnG	v41chn	mívat			x	2.2.5.
+v41chnH	v41chn	mívat			x	 1.1.3.2.1.
+v41chnJ	v41chn	mívat			vec00470
+v41chnK	v41chn	mívat			D
+v41chnL	v41chn	mívat			vec00067
+v41chnM	v41chn	mívat			x	 1.1.4.3.3.1.1.
+v41chnN	v41chn	mívat			vec01828
+v41chnO	v41chn	mívat			vec00516
+v41chnR	v41chn	mívat			x	1.2.1.2
+v41chnS	v41chn	mívat			vec01229
+v41chnV	v41chn	mívat			vec01458
+v41ocbB	v41ocb	vycházet			vec00279
+v41ocbE	v41ocb	vycházet			x	1.1.4.3.1.
+v41ocbG	v41ocb	vycházet			x	1.1.5.2.
+v41ocbJ	v41ocb	vycházet			vec00164
+v41bbiE	v41bbi	chodit			vec01692
+v41bbiP	v41bbi	chodit			vec00221
+v41pmcC	v41pmc	vzít si			vec00107
+v41zdD	v41zd	dojít			vec01736
+v41zdK	v41zd	dojít			vec01018
+v41nwvD	v41nwv	vydat			vec00488
+v41nwvJ	v41nwv	vydat			vec00250
+v41nwvM	v41nwv	vydat			vec00509
+v41dkkG	v41dkk	nést			x	2.5.3.1.
+v41dkkH	v41dkk	nést			vec01034
+v41dkkJ	v41dkk	nést			x	2.1.4.
+v41dkkM	v41dkk	nést			vec01401
+v41afzA	v41afz	dostávat			vec01013
+v41afzF	v41afz	dostávat			vec00552
+v41afzI	v41afz	dostávat			vec00316
+v41afzK	v41afz	dostávat			vec00185
+v41afzL	v41afz	dostávat			vec00094
+v41ktwG	v41ktw	složit			x	2.4.2.2.7.3.
+v41ktwI	v41ktw	složit			vec00365
+v41chxE	v41chx	mluvit			vec01575
+v41chxK	v41chx	mluvit			vec01782
+v41sadI	v41sad	zůstat			vec01209
+v41bkwL	v41bkw	klást			vec00480
+v41fqjG	v41fqj	podat			x	2.1.1.1.1.1.
+v41aldB	v41ald	držet se			x	2.3.3.
+v41aybD	v41ayb	hovořit			vec01575
+v41aybI	v41ayb	hovořit			vec01782
+v41bczF	v41bcz	chytit			vec01328
+v41rzdI	v41rzd	ztratit			x	2.5.1.6.4.
+v41rzdJ	v41rzd	ztratit			x	2.5.1.6.4.
+v41rzdK	v41rzd	ztratit			vec00371
+v41bhuA	v41bhu	jet			x	2.1.3.5.
+v41bhuE	v41bhu	jet			x	1.1.1.1.1.1
+v41noH	v41no	činit			vec00773
+v41noJ	v41no	činit			vec01361
+v41agaD	v41aga	dostávat se			x	 2.4.4.1.1.
+v41dscE	v41dsc	obrátit			vec00429
+v41saeB	v41sae	zůstávat			vec00069
+v41saeH	v41sae	zůstávat			vec00199
+v41kieA	v41kie	sejít			vec01318
+v41kieF	v41kie	sejít			vec01744
+v41kieG	v41kie	sejít			vec00755
+v41ppvE	v41ppv	zabrat			x	2.4.2.2.7.3.
+v41pqI	v41pq	dát si			vec01207
+v41kejC	v41kej	říkat			vec00272
+v41rgF	v41rg	dělat si			vec00760
+v41rgH	v41rg	dělat si			vec01133
+v41pbxD	v41pbx	vytáhnout			vec01950
+v41pbxI	v41pbx	vytáhnout			vec00109
+v41hfiE	v41hfi	projít			x	1.1.4.2
+v41hfiG	v41hfi	projít			x	2.3.2.
+v41hfiI	v41hfi	projít			vec01568	1.1.4.2
+v41ylG	v41yl	docházet			vec01018
+v41fmtC	v41fmt	platit			x	1.1.4.3.1.
+v41fmtE	v41fmt	platit			x	2.5.5.2.
+v41iaxC	v41iax	přecházet			vec00460
+v41ryyG	v41ryy	ztrácet			x	2.5.1.6.4.
+v41ryyH	v41ryy	ztrácet			vec00371
+v41norD	v41nor	volat			vec00581
+v41awlE	v41awl	hodit			x	2.1.1.1.1.2.
+v41jedI	v41jed	pustit			vec00905
+v41oqqC	v41oqq	vypovídat			vec01700
+v41oqqG	v41oqq	vypovídat			vec00221
+v41kzvH	v41kzv	spadnout			vec01978
+v41fdbH	v41fdb	otevírat			vec00012
+v41bzxH	v41bzx	letět			D
+v41ndvC	v41ndv	uvolnit			vec00943
+v41jdcB	v41jdc	psát			vec00272
+v41onlG	v41onl	vypadnout			vec00221
+v41khhH	v41khh	sebrat			vec01061
+v41kqdB	v41kqd	skládat			vec01444
+v41kqdE	v41kqd	skládat			vec00942
+v41darE	v41dar	nasazovat			x	2.1.4.4.1.
+v41darF	v41dar	nasazovat			vec00213
+v41puiG	v41pui	zacházet			vec01852
+v41oqlF	v41oql	vypovědět			vec01700
+v41dyrF	v41dyr	odejít			vec00221
+v41ivaC	v41iva	připadnout			x	1.2.1.1.1.
+v41cgeF	v41cge	míchat			vec01864
+v41hrmE	v41hrm	provést			x	2.9.11.3.
+v41puE	v41pu	dávat si			vec01207
+v41oeyE	v41oey	vykládat			vec01156
+v41chmF	v41chm	mít se			vec00510
+v41huE	v41hu	brát si			vec00230
+v41dalC	v41dal	nasadit			vec00571
+v41iqqC	v41iqq	přihlásit se			x	2.3.
+v41emfA	v41emf	odvádět			vec00125
+v41emfB	v41emf	odvádět			vec00125
+v41emfF	v41emf	odvádět			vec00125
+v41qsnG	v41qsn	zavést			x	2.2.4.2.4.
+v41iuyB	v41iuy	připadat			vec00348
+v41iuyF	v41iuy	připadat			vec01679
+v41rhoG	v41rho	zkusit			x	2.9.11.
+v41oieC	v41oie	vylézt			vec01465
+v41otzC	v41otz	vyrovnat			vec00125
+v41sekA	v41sek	žít			x	2.4.2.2.7.6.1.1.
+v41bhxB	v41bhx	jezdit			vec01037
+v41bhxD	v41bhx	jezdit			vec00403
+v41pukA	v41puk	zachovat			vec01547
+v41pukB	v41puk	zachovat			vec00176
+v41pukE	v41puk	zachovat			x	2.5.1.3.1.
+v41pukF	v41puk	zachovat			x	2.9.11.1.
+v41npzC	v41npz	vrátit			vec00745
+v41mtA	v41mt	čekat			x	2.5.1.2.4.1.
+v41mboA	v41mbo	trefit			vec01690
+v41mboC	v41mbo	trefit			vec00307
+v41lrzA	v41lrz	sypat			vec00624
+v41cyxC	v41cyx	narazit			vec00465
+v41aehB	v41aeh	dorazit			x	2.4.2.2.7.5.1
+v41aehC	v41aeh	dorazit			vec00213
+v41aehD	v41aeh	dorazit			vec00365
+v41femD	v41fem	otvírat			vec00861
+v41peoF	v41peo	vytvořit			vec00507
+v41garF	v41gar	pokládat			vec00382
+v41iiqF	v41iiq	přeskočit			vec01978
+v41fdoB	v41fdo	otočit			vec01236
+v41fdoC	v41fdo	otočit			vec01251
+v41bzwC	v41bzw	létat			x	2.1.1.1.1.2.2.
+v41mhpD	v41mhp	udávat			x	2.2.4
+v41mhpE	v41mhp	udávat			x	2.2.4
+v41ompD	v41omp	vynést			x	2.5.3.1.
+v41pveF	v41pve	zachytit			vec00639
+v41ptB	v41pt	dávat se			vec01458
+v41ptD	v41pt	dávat se			vec00434
+v41rgtA	v41rgt	zkoušet			x	2.5.5.3.
+v41kmeE	v41kme	shazovat			vec01108	2.4.3.1.2.5.
+v41dwjB	v41dwj	odbýt			x	2.5.3.2.
+v41dkmA	v41dkm	nést se			vec01146
+v41omiA	v41omi	vynášet			x	2.2.4
+v41omiD	v41omi	vynášet			vec00382
+v41mttA	v41mtt	určovat			vec00127
+v41mttC	v41mtt	určovat			vec00228
+v41jmB	v41jm	bušit			vec01531
+v41jmC	v41jm	bušit			vec01531
+v41cyzA	v41cyz	narážet			vec00735
+v41mhmE	v41mhm	udat			vec00254
+v41lqkB	v41lqk	svést			vec01002
+v41ldaE	v41lda	spojovat			vec00519
+v41relD	v41rel	získávat			x	2.2.5.8.
+v41mupC	v41mup	usadit se			vec00705
+v41nzvE	v41nzv	vyhnat			vec00167
+v41mfsE	v41mfs	ubrat			x	2.4.2.2.7.3.
+v41ifiE	v41ifi	přenést			vec01284
+v41qjvE	v41qjv	zasadit			vec00735
+v41fhzC	v41fhz	pálit			vec01898
+v41eeqE	v41eeq	odnést			vec00923
+v41kcmA	v41kcm	růst			x	2.4.1.2.9.6.1.
+v41kcmC	v41kcm	růst			vec01132
+v41fkzA	v41fkz	pět			vec00794
+v41fkzE	v41fkz	pět			vec00794
+v41mlmB	v41mlm	ukázat se			x	2.7.2.2.
+v41qrmE	v41qrm	zavádět			vec01777
+v41bcxD	v41bcx	chytat			x	2.1.1.1.1.3.
+v41rppB	v41rpp	znít			x	2.1.2.1.
+v41mlrB	v41mlr	ukazovat se			x	2.7.2.2.
+v41lcuE	v41lcu	spojit			vec00519
+v41yaC	v41ya	dohnat			vec01736
+v41jeeD	v41jee	pustit se			vec00618
+v41fjiC	v41fji	pasovat			vec00821
+v41bbqC	v41bbq	chovat			x	2.4.1.2.9.6.1.
+v41qaiD	v41qai	založit			x	2.4.2.2.7.3.
+v41qaiE	v41qai	založit			x	2.4.2.2.7.8.
+v41hpcE	v41hpc	protáhnout se			x	1.1.4.2.2.1.
+v41nqcD	v41nqc	vrazit			vec00751
+v41pwsC	v41pws	zakládat			x	2.4.2.2.7.8.
+v41pwsD	v41pws	zakládat			x	2.4.2.2.7.3.
+v41fjzC	v41fjz	patřit			vec00328
+v41zhE	v41zh	dokázat			vec00621
+v41pacD	v41pac	vysypat			x	2.4.2.2.7.2.
+v41evgA	v41evg	operovat			x	2.4.2.2.7.
+v41kfhC	v41kfh	sázet			vec00735
+v41axcA	v41axc	honit se			vec00687
+v41hyfC	v41hyf	představit			vec00611
+v41hyfD	v41hyf	představit			vec00194
+v41haaB	v41haa	probíhat			x	2.2.5.1.
+v41lguA	v41lgu	srovnávat			x	2.4.3.1.4.
+v41lguC	v41lgu	srovnávat			vec01444
+v41iwnA	v41iwn	připouštět			x	2.1.1.2.2.4
+v41iwnB	v41iwn	připouštět			x	2.6.2.5.
+v41alyB	v41aly	dusit			x	2.4.2.4.2.6.
+v41ealB	v41eal	odcházet			vec00942
+v41lxeD	v41lxe	téci			x	2.1.1.1.2.1.7.
+v41pfoA	v41pfo	vyvádět			vec00555
+v41axjC	v41axj	hořet			x	1.1.1.1.
+v41jqlA	v41jql	rozhodovat			vec00106
+v41rfD	v41rf	dělat se			x	2.1.6.1.
+v41blgA	v41blg	klepat			x	2.1.3.2.1.
+v41nyuA	v41nyu	vyházet			vec00147
+v41nyuC	v41nyu	vyházet			vec00555
+v41heA	v41he	bouchnout			vec01428
+v41nltA	v41nlt	vítat			vec01145
+v41hspD	v41hsp	prožít			vec00379
+v41nhhA	v41nhh	vážit			vec00149
+v41pejD	v41pej	vytvářet			vec00206
+v41oveA	v41ove	vyřizovat			vec00162
+v41lljB	v41llj	stoupnout			x	2.5.3.1.1.1.3.2.
+v41cdpB	v41cdp	malovat			vec00638
+v41mktD	v41mkt	ujet			vec00734
+v41gusB	v41gus	povstat			vec00258
+v41gusC	v41gus	povstat			vec00390
+v41heaB	v41hea	prohodit			vec00429
+v41clpC	v41clp	nabírat			x	2.4.2.2.7.3.2.
+v41duxD	v41dux	ocitnout se			x	1.1.4.3.3.1.1.
+v41huvC	v41huv	přečíst			vec00690
+v41flfD	v41flf	píchat			x	1.1.1.1.
+v41lcB	v41lc	cítit se			vec00204
+v41qksD	v41qks	zaskočit			x	2.6.2.2.1.
+v41jrvA	v41jrv	rozkládat se			vec01305
+v41qutA	v41qut	zaznamenávat			vec01169
+v41pxrB	v41pxr	zakopat			x	2.1.1.2.2.3.1.
+v41qidA	v41qid	zarazit			x	2.1.1.2.2.3.1.
+v41hveD	v41hve	předat			x	2.2.4.
+v41qkkC	v41qkk	zaseknout			x	2.1.3.2.5.
+v41pnaA	v41pna	vzplanout			x	1.1.3.1.1.4.
+v41pnaD	v41pna	vzplanout			D
+v41llgB	v41llg	stoupat			vec01041
+v41bamB	v41bam	chápat			x	2.2.5.8.
+v41ldqA	v41ldq	spolknout			vec01982
+v41nvsA	v41nvs	vyčerpat			vec00847
+v41feaA	v41fea	otřást			x	2.4.2.2.4.1.3.
+v41rjcC	v41rjc	zlomit			x	2.5.3.
+v41hjhC	v41hjh	propadat			vec00467
+v41fphC	v41fph	pociťovat			vec00203
+v41hxeA	v41hxe	přednášet			x	2.2.4.1.3.
+v41hvhD	v41hvh	předávat			D
+v41ianC	v41ian	přehrát			vec00611
+v41lcqD	v41lcq	spočívat			x	1.1.4.1.3.2.8.
+v41jyxB	v41jyx	rozšířit			x	2.2.4.1.
+v41dfuB	v41dfu	navazovat			x	2.1.3.2.4.
+v41qdyD	v41qdy	zapadat			vec00755
+v41kaxC	v41kax	rozvázat			x	2.2.4.2.5.
+v41mquC	v41mqu	upevnit			vec00899
+v41ipfB	v41ipf	přibrzdit			vec00392
+v41ruaD	v41rua	zpracovávat			vec00254
+v41kfqB	v41kfq	sbírat			vec00443
+v41bhrC	v41bhr	jednat			x	2.2.5.1.2.
+v41biaC	v41bia	ježit se			x	2.1.1.1.1.2.4.2.
+v41ahvB	v41ahv	dotýkat se			vec00994
+v41gafB	v41gaf	pojmenovávat			vec00043
+v41eoyB	v41eoy	ohlížet se			vec00021
+v41qdnC	v41qdn	zaniknout			x	2.3.2.
+v41krB	v41kr	cílit			vec00859
+v41ifjC	v41ifj	přenést se			vec01520
+v41fnvA	v41fnv	plodit			vec00084
+v41fnvC	v41fnv	plodit			vec00196
+v41lhkC	v41lhk	stáhnout se			vec01368
+v41npuB	v41npu	vracet			x	2.4.2.4.1.3.2.
+v41jupA	v41jup	roznášet			vec00209
+v41qlrA	v41qlr	zaspat			x	2.2.3.2.3.
+v41qlrB	v41qlr	zaspat			vec01279
+v41nxbA	v41nxb	vydávat se			vec01463
+v41krsA	v41krs	skrývat			vec00514
+v41kmyC	v41kmy	shrnovat			x	2.1.1.2.1.1.6.
+v41achB	v41ach	doplácet			x	2.2.1.4.3.
+v41ensA	v41ens	odvrátit			vec00251
+v41icrA	v41icr	překrýt			vec00872
+v41pxtB	v41pxt	zakopávat			x	2.9.6.
+v41gxB	v41gx	bolet			x	1.1.1.1.
+v41lbnA	v41lbn	splácet			x	2.5.1.6.2.1.
+v41murB	v41mur	usazovat se			vec00705
+v41fgnA	v41fgn	ozývat se			x	2.5.1.6.1.
+v41ofeA	v41ofe	vyklízet			x	2.4.2.2.7.5
+v41ldbC	v41ldb	spojovat se			vec00581
+v41pjtC	v41pjt	vyzvednout			vec00382
+v41qelA	v41qel	zapět			vec00794
+v41qelC	v41qel	zapět			vec00794
+v41mccC	v41mcc	trhat			x	2.1.4.7.
+v41qifA	v41qif	zarážet			vec01966
+v41merB	v41mer	tvrdit			x	2.4.3.2.1.6.
+v41merC	v41mer	tvrdit			x	2.5.5.1.2.
+v41tuA	v41tu	diferencovat se			vec00120
+v41ckmB	v41ckm	myslit si			vec01228
+v41eyhB	v41eyh	orientovat			vec00735
+v41qbtA	v41qbt	zamířit			vec00859
+v41qnzB	v41qnz	zašeptat			vec01529
+v41cpsA	v41cps	nahlédnout			vec00402
+v41pzeA	v41pze	zakusovat se			vec01961
+v41ndqA	v41ndq	uvítat			vec01145
+v41ijpB	v41ijp	přestoupit			vec00279
+v41cvdC	v41cvd	namířit			vec00835
+v41jjcC	v41jjc	reprodukovat			x	2.1.5.1.9.3.
+v41aznB	v41azn	hřmět			vec00592
+v41gysB	v41gys	pravit			vec00060
+v41iagB	v41iag	přehodit			x	2.1.1.
+v41sbaC	v41sba	zvednout			x	2.5.1.2.1.1.
+v41cbrB	v41cbr	lízat			x	2.4.2.2.4.2.1.
+v41akxA	v41akx	družit se			vec00318
+v41fmcA	v41fmc	plácnout			x	2.2.4.1.12.1.
+v41onnA	v41onn	vypalovat			vec01246
+v41phrA	v41phr	vyvrhnout			vec00962
+v41phrB	v41phr	vyvrhnout			x	2.6.2.2.1
+v41bxxA	v41bxx	ladit			x	2.4.2.2.
+v41bxxB	v41bxx	ladit			x	2.4.2.4.1.4.1.
+v41lmjA	v41lmj	strkat			vec00932
+v41hqjB	v41hqj	protrhnout			x	2.4.2.4.2.1.4.
+v41hqjC	v41hqj	protrhnout			x	2.1.3.5.5.
+v41qnfA	v41qnf	zastřít			vec00514
+v41cokC	v41cok	nadnášet			vec00634
+v41qnvC	v41qnv	zasypat			x	2.4.2.2.7.2.1.
+v41gkC	v41gk	bodnout			x	1.1.1.1.
+v41giyA	v41giy	porážet			D
+v41qfxC	v41qfx	zapnout			x	2.1.3.5.3.
+v41bkhB	v41bkh	kecat			x	2.2.4.2.5.
+v41lgcA	v41lgc	spustit se			x	2.5.3.1.6.
+v41foqB	v41foq	pobít			vec01851
+v41poqA	v41poq	zabetonovat			vec01726
+v41poqC	v41poq	zabetonovat			vec01726
+v41ebvA	v41ebv	odklonit			vec00854
+v41pdcC	v41pdc	vytknout			x	2.1.1.2.2.2.
+v41owtB	v41owt	vyslovovat			D
+v41adxB	v41adx	doprovodit			x	2.1.5.1.1.3.
+v41punA	v41pun	zachovávat			vec00014
+v41qetA	v41qet	zapisovat			vec01345
+v41quwC	v41quw	zazpívat			vec00794
+v41pwzC	v41pwz	zaklepat			x	2_5_3_1_1_6_1
+v41azqC	v41azq	hučet			x	1.1.1.1.1.
+v41oyxA	v41oyx	vystřihávat			x	2.1.5.1.4.1.
+v41oyxC	v41oyx	vystřihávat			x	2.4.2.2.4.1.1.1.2.
+v41isrB	v41isr	přiklonit se			vec00637
+v41hlwA	v41hlw	prorůstat			x	2.4.2.2.4.5.
+v41oykB	v41oyk	vystoupat			x	2.4.3.1.
+v41ishA	v41ish	přijít si			vec00379
+v41qkjA	v41qkj	zasednout			x	2.4.2.2.7.1.1.
+v41gaeC	v41gae	pojmenovat			vec00043
+v41bzkB	v41bzk	lemovat			x	2.4.2.2.7.8.
+v41dclB	v41dcl	nastavovat			x	2.4.2.2.7.16.
+v41jpeB	v41jpe	rozestavět			vec00735
+v41kzdB	v41kzd	soustředit se			vec00710
+v41mgcC	v41mgc	ucítit			D
+v41qnbA	v41qnb	zastřešit			D
+v41qnbC	v41qnb	zastřešit			vec00213
+v41lvyB	v41lvy	šuškat			vec01529
+v41ipjA	v41ipj	přibývat			vec01906
+v41pweC	v41pwe	zajít			vec01852
+v41qwuA	v41qwu	zbystřit			vec01190
+v41eylB	v41eyl	ořezat			vec00118
+v41eylC	v41eyl	ořezat			vec00118
+v41hdgC	v41hdg	prohlašovat			vec00060
+v41lxB	v41lx	cukat			x	2.1.1.1.3
+v41lxC	v41lx	cukat			x	1.1.1.1.1.
+v41gigA	v41gig	popudit			vec01643
+v41hnoA	v41hno	prostavět			vec00147
+v41hnoB	v41hno	prostavět			vec00147
+v41hyyA	v41hyy	předurčit			vec00889
+v41hyyB	v41hyy	předurčit			vec00228
+v41hyzB	v41hyz	předurčovat			vec00228
+v41olbC	v41olb	vymrštit			x	2.1.1.2.2.1.2.1.
+v41hmeA	v41hme	prosáknout			x	2.4.2.2.4.4.
+v41efeB	v41efe	odpálit			vec00380
+v41gxhA	v41gxh	pozvednout			x	2.4.4.1.2.
+v41iozB	v41ioz	přibližovat			x	2.5.5.8.1.
+v41rlqC	v41rlq	zmocnit se			D
+v41fdyA	v41fdy	otřásat			x	2.1.1.2.1.1.6.
+v41ohoB	v41oho	vylamovat			x	2.4.2.2.4.1.1.1.1.
+v41ohoC	v41oho	vylamovat			vec00732
