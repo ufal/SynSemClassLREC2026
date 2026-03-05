@@ -18,7 +18,7 @@ venue = {{Palau de Congressos de Palma, Spain}},
 
 ## Overview
 
-This repository contains the implementation and experiments supporting our work on improving and extending the **SynSemClass eventive ontology** using automatic suggestion methods.
+This repository contains the implementation and experiments supporting our work on improving and extending the [SynSemClass eventive ontology](https://ufal.mff.cuni.cz/synsemclass) using automatic suggestion methods.
 
 The project explores how machine-assisted recommendations can support ontology extension with improved efficiency and consistency.
 
