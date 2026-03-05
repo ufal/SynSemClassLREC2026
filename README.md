@@ -22,6 +22,10 @@ This repository contains the implementation and experiments supporting our work 
 
 The project explores how machine-assisted recommendations can support ontology extension with improved efficiency and consistency.
 
+## License
+
+The data are distributed under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
+
 ## Installation
 
 1. Clone the repository
