@@ -2,7 +2,7 @@
 
 Code and data accompanying the paper accepted at **LREC 2026**:
 
-**Automatic Suggestions Help Extending Eventive Ontology: A Case Study on SynSemClass**
+Straková Jana, Fučíková Eva, Urešová Zdeňka, Hajič Jan: **Automatic Suggestions Help Extending Eventive Ontology: A Case Study on SynSemClass**. Accepted for publication in: Proceedings of LREC 2026, Copyright © ELRA, Paris, France, 2026
 
 ```
 @inproceedings{strakova-etal-2026-automatic,
